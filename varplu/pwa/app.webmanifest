@@ -1,0 +1,42 @@
+{
+  "theme_color": "#ff850b",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "display_override": ["minimal-ui"],
+  "orientation": "any",
+  "dir": "auto",
+  "lang": "ru",
+  "name": "Вариант Плюс",
+  "short_name": "Varplu",
+  "description": "Сантехника, Сантехника в городе Юрга, Сантехника Юрга, трубы, раковины, водонагреватели, насосы, радиаторы. Любую сантехнику вы найдёте в нашем магазине",
+  "id": "https://varplu.ru",
+  "scope": "https://varplu.ru",
+  "start_url": "https://varplu.ru/?utm=application",
+  "categories": ["shopping"],
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/pwa/icons/512x512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/pwa/icons/512x512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "256x256",
+      "src": "/pwa/icons/256x256.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "72x72",
+      "src": "/pwa/icons/72x72.png",
+      "type": "image/png"
+    }
+  ]
+}
