@@ -17,25 +17,25 @@
     {
       "purpose": "maskable",
       "sizes": "512x512",
-      "src": "https://github.com/Daniil50976/pwa/blob/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/512x512.png",
+      "src": "https://raw.githubusercontent.com/Daniil50976/pwa/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/512x512.png",
       "type": "image/png"
     },
     {
       "purpose": "any",
       "sizes": "512x512",
-      "src": "https://github.com/Daniil50976/pwa/blob/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/512x512.png",
+      "src": "https://raw.githubusercontent.com/Daniil50976/pwa/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/512x512.png",
       "type": "image/png"
     },
     {
       "purpose": "any",
       "sizes": "256x256",
-      "src": "https://github.com/Daniil50976/pwa/blob/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/256x256.png",
+      "src": "https://raw.githubusercontent.com/Daniil50976/pwa/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/256x256.png",
       "type": "image/png"
     },
     {
       "purpose": "any",
       "sizes": "72x72",
-      "src": "https://github.com/Daniil50976/pwa/blob/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/72x72.png",
+      "src": "https://raw.githubusercontent.com/Daniil50976/pwa/c85ec10980526091d40df6782b3b0ec3fbacbc4f/varplu/pwa/icons/72x72.png",
       "type": "image/png"
     }
   ]
