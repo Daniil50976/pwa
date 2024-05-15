@@ -9,7 +9,7 @@
   "name": "Вариант Плюс",
   "short_name": "Varplu",
   "description": "Сантехника, Сантехника в городе Юрга, Сантехника Юрга, трубы, раковины, водонагреватели, насосы, радиаторы. Любую сантехнику вы найдёте в нашем магазине",
-  "id": "https://varplu.ru",
+  "id": "http://localhost:8081",
   "scope": "http://localhost:8081",
   "start_url": "http://localhost:8081/?utm=application",
   "categories": ["shopping"],
